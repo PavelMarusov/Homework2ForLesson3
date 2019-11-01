@@ -18,7 +18,7 @@ public class Main {
                     System.out.println("good day," + people[1]);
                     break;
                 case 2:
-                    System.out.println("good evening" + people[2]);
+                    System.out.println("good evening," + people[2]);
                     break;
 
 
