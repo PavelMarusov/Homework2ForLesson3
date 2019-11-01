@@ -12,13 +12,13 @@ public class Main {
         for (int i = 0; i < people.length ; i++) {
             switch (i){
                 case 0:
-                    System.out.println("good morning, Pasha");
+                    System.out.println("good morning," + people[0]);
                     break;
                 case 1:
-                    System.out.println("good day, Sasha");
+                    System.out.println("good day," + people[1]);
                     break;
                 case 2:
-                    System.out.println("good evening, Masha");
+                    System.out.println("good evening" + people[2]);
                     break;
 
 
